@@ -21,7 +21,9 @@
 ## A bit about me:
 
 • I have two dogs
+
 • Into anime, Naruto is my favorite
+
 • I like to build things that are simple, useful, and lovable.
  
 <!--
