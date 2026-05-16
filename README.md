@@ -1,6 +1,6 @@
 ## HI HOWS IT GOING?👋
 
- My name is Pham, I'm a software engineerer based in Houston.
+ My name is Phat Pham (call me Pham), I'm a software engineerer based in Houston.
 
  I mostly learn competitive programming - Using languages like Java, C++.
  But I also do Frontend things - React, Tailwind, ...
